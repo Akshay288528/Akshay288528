@@ -1,15 +1,16 @@
-<h1 align="center">Hi 👋, I'm Akshay R Hegde</h1>
+<h1 align="center">Hi, I'm Akshay R Hegde</h1>
 <h3 align="center">A passionate Full Stack Developer and AI enthusiast from India</h3>
 
-<p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshay288528&theme=algolia&column=7&margin-w=15&margin-h=15" alt="akshay288528" /></a>
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshay288528" alt="akshay288528" /></a> </p>
 
-- 🔭 I'm currently working on [Smart DairyVision AI](https://github.com/Meghana2305pg/Smart_dairyvisionAI)
-- 🌱 I'm currently learning **Artificial Intelligence, Machine Learning, Computer Vision, Cloud & DevOps**
+- 🔭 I’m currently working on [Smart DairyVision AI](https://github.com/Meghana2305pg/Smart_dairyvisionAI)
+- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning, Computer Vision, Cloud & DevOps**
+
 - 👨‍💻 All of my projects are available at [https://github.com/Akshay288528](https://github.com/Akshay288528)
+
 - 💬 Ask me about **Full Stack Development**
-- 📫 How to reach me: **1rn23is014.akshayhegde@gmail.com**
+
+- 📫 How to reach me **1rn23is014.akshayhegde@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,28 +38,20 @@
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">📊 GitHub Analytics:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay288528&show_icons=true&locale=en&layout=compact" alt="akshay288528" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshay288528&show_icons=true&locale=en" alt="akshay288528" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay288528&" alt="akshay288528" /></p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=akshay288528&show_icons=true&locale=en&theme=radical&count_private=true&include_all_commits=true" alt="akshay288528 stats" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshay288528&theme=radical" alt="akshay288528 streak" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akshay288528" alt="akshay288528 contribution graph" width="98%" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay288528&layout=compact&theme=radical&locale=en" alt="akshay288528 top languages" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=akshay288528&theme=radical&layout=compact" alt="akshay288528 wakatime" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akshay288528" alt="repos per language" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akshay288528" alt="most commit language" width="49%" />
 </p>
-
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akshay288528&theme=redical" alt="akshay288528 contribution graph" width="98%" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akshay288528&theme=github_dark" alt="repos per language" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akshay288528&theme=github_dark" alt="most commit language" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akshay288528&theme=github_dark" alt="profile stats" width="32%" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=akshay288528&repo=Smart_dairyvisionAI&theme=radical" alt="pinned repo" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akshay288528" alt="profile stats (total repos, stars, followers)" width="98%" />
 </p>
