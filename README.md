@@ -1,9 +1,8 @@
 <h1 align="center">Hi, I'm Akshay R Hegde</h1>
 <h3 align="center">A passionate Full Stack Developer and AI enthusiast from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshay288528" alt="akshay288528" /></a> </p>
-
 - 🔭 I’m currently working on [Smart DairyVision AI](https://github.com/Meghana2305pg/Smart_dairyvisionAI)
+
 - 🌱 I’m currently learning **Artificial Intelligence, Machine Learning, Computer Vision, Cloud & DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Akshay288528](https://github.com/Akshay288528)
